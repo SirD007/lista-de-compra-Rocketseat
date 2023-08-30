@@ -89,7 +89,7 @@ export default function App() {
   };
 
   return (
-    <div className="bg-slate-100 dark:bg-slate-950 h-[100vh] flex flex-col items-center overflow-hidden relative">
+    <div className="bg-slate-100 dark:bg-slate-950 h-[100vh] flex flex-col items-center overflow-hidden relative bg-coverbg-light dark:bg-coverbg max-md:dark:bg-mobile-coverbg max-md:bg-mobile-coverbg-light bg-no-repeat">
       <span className="absolute bottom-2 text-xs text-zinc-400">Feito por <a className="text-purple-500" href="https://github.com/sird007">David Morais</a></span>
 
       <div className="max-w-[720px] w-full p-5 sm:p-10 flex flex-col gap-8 sm:mt-16 sm-16">
