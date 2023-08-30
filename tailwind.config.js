@@ -8,10 +8,10 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'coverbg': "url('src/assets/coverbg.png')",
-        'coverbg-light': "url('src/assets/coverbg-light.png')",
-        'mobile-coverbg': "url('src/assets/mobile-coverbg.png')",
-        'mobile-coverbg-light': "url('src/assets/mobile-coverbg-light.png')",
+        'coverbg': "url('../src/assets/coverbg.png')",
+        'coverbg-light': "url('../src/assets/coverbg-light.png')",
+        'mobile-coverbg': "url('../src/assets/mobile-coverbg.png')",
+        'mobile-coverbg-light': "url('../src/assets/mobile-coverbg-light.png')",
       },
       fontFamily:{
         'sans': ['Inter var', 'sans-serif']
