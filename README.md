@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  Uma aplicação para lista de compras
 
-- [Acesse o projeto finalizado, online](Em processo de deploy)
+- [Acesse o projeto finalizado, online](https://lista-de-compra-rocketseat.vercel.app/)
 
 ## Licença
 
